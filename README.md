@@ -8,5 +8,6 @@ Due to the set-up of environments in my computer. the Python modules I needed fo
 There are eighty Federalist papers as recounted in the musical Hamilton; and all of them are available online from [this]() site. Since it would be tedious to manually retrieve the text for all eighty Federalist papers, I opted to automate the task by using web scraping tools. 
 
 ## PART II: NLP
+Natural Language Processing is a relatively new technique that has a wide array of applications. Computing tools can take dense texts and distill their gists in terms of n-grams, term frequencies, and themes. 
 
 ## Analysis
