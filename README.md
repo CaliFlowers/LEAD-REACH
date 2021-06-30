@@ -1,5 +1,6 @@
-# full-process-nlp-for-legal-analysis
-A simple project demonstrating a.)  a full ETL process scraping text from webpages; b.) natural language processing to analyze controversial and dense legal documents and express data-driven opinions about constitutional law. 
+#LEAD -REICH
+Linguistic Extraction and Analysis of Documents  Related to the Exploration and Interpretation of Constitutional History (LEAD REICH)
+is a simple project demonstrating a.)  a full ETL process scraping text from webpages; b.) natural language processing to analyze controversial and dense legal documents and help inform data-driven opinions about constitutional law. 
 
 ## How this works
 Due to the set-up of environments in my computer. the Python modules I needed for ETL were installed separate from the modules necessary for NLP. Hence, this project is divided into two parts: Part I deals with the extraction of data (about the Federalis Papers) from a public website; while Part II involves the use of Natural Language Processing techniques to derve insights from the data. 
