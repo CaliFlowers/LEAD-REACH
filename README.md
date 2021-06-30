@@ -1,4 +1,5 @@
-#LEAD -REICH
+# LEAD - REICH
+
 Linguistic Extraction and Analysis of Documents  Related to the Exploration and Interpretation of Constitutional History (LEAD REICH)
 is a simple project demonstrating a.)  a full ETL process scraping text from webpages; b.) natural language processing to analyze controversial and dense legal documents and help inform data-driven opinions about constitutional law. 
 
